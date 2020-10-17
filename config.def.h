@@ -133,6 +133,9 @@ static const char *colorname[] = {
 	"#cccccc",
 	"#555555",
 	"black",
+	"#f4faff",
+	"#0f133c",
+	"#055cb9"
 };
 
 
@@ -144,7 +147,7 @@ unsigned int defaultfg = 7;
 unsigned int defaultbg = 0;
 static unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;
-unsigned int bg = 17, bgUnfocused = 16;
+unsigned int bg = 260, bgUnfocused = 258;
 
 /*
  * Default shape of cursor
