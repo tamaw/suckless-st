@@ -4,6 +4,9 @@ A simple terminal created by suckess.org with custom patches applied.
 
 **Version:** [0.8.3](https://git.suckless.org/st/commit/43a395ae91f7d67ce694e65edeaa7bbc720dd027.html)
 
+![image](https://user-images.githubusercontent.com/461535/174512805-4631ec63-7bc2-439c-aa50-ac7b5d3be274.png)
+
+
 ## Configuration
 
 - SauceCodePro Nerd Font - main font
